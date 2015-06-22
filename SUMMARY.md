@@ -2,6 +2,6 @@
 
 * [introduction](README.md)
 * [Foreword](foreword.md)
-* 1.Working your way around layouts
 * [About this book](about_this_book.md)
+* 1.Working your way around layouts
 
