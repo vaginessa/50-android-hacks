@@ -6,5 +6,5 @@
 * 1.Working your way around layouts
    * [Hack1 Centering views using weights](1.working_your_way_around_layouts/newfile.md)
    * Hack2 Using lazy loading and avoiding replication
-   * Centering views using weights
+   * Hack3 Centering views using weights
 
