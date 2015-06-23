@@ -8,4 +8,5 @@
    * [Hack2 Using lazy loading and avoiding replication](1.working_your_way_around_layouts/hack2_using_lazy_loading_and_avoiding_replication.md)
    * [Hack3 Creating a custom ViewGroup](1.working_your_way_around_layouts/hack3_creating_a_custom_viewgroup.md)
    * [Hack4 Preferences hacks](1.working_your_way_around_layouts/hack4/hack4_preferences_hacks.md)
+* 2.Creating cool animations
 
